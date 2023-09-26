@@ -1,0 +1,25 @@
+import Accueil from './Accueil.svg';
+import Accueil1 from './Accueil1.svg';
+import Accueil2 from './Accueil2.svg';
+import Blob from './Blob.svg';
+import Blob1 from './Blob1.svg';
+import Destination from './Destination.svg';
+import Drapeau from './Drapeau.svg';
+import FedaLogoBlue from './FedaLogoBlue.svg';
+import FedaLogoBlueSm from './FedaLogoBlueSm.svg';
+import Icon from './Icon.svg';
+import Icone from './Icone.svg';
+import IconeWa from './IconeWa.svg';
+import Logo from './Logo.svg';
+import LogoDark from './LogoDark.svg';
+import MtnMoney from './MtnMoney.svg';
+import Wallet from './Wallet.svg';
+import Wave from './Wave.svg';
+import Wave1 from './Wave1.svg';
+import Wave2 from './Wave2.svg';
+import Wave3 from './Wave3.svg';
+import Wave4 from './Wave4.svg';
+import WtCar from './WtCar.svg';
+import WtCar1 from './WtCar1.svg';
+
+export { Accueil, Accueil1, Accueil2, Blob, Blob1, Logo, Destination, Drapeau, FedaLogoBlue, FedaLogoBlueSm, WtCar, WtCar1, Wallet, Wave, Wave1, Wave2, Wave3, Wave4, MtnMoney, LogoDark, Icone, Icon, IconeWa };
