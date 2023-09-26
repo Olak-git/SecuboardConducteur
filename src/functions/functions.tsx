@@ -255,6 +255,6 @@ export const {width: screenWidth, height: screenHeight} = Dimensions.get('screen
 
 const PRODUCTION = true;
 
-export const baseUri = PRODUCTION ? 'https://secuboard.project.utechaway.com/mobile' : 'http://192.168.8.101:80/sources/vtc';
+export const baseUri = PRODUCTION ? 'https://secuboard.project.utechaway.com/mobile' : 'http://192.168.8.101:8888/projects/secuboard';
 
 export const fetchUri = baseUri + '/app/request-conducteur.php';
